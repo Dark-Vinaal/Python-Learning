@@ -1,6 +1,5 @@
 # 🐍 30 Days of Python Internship — Daily Tasks Repository
 
-------
 
 ## 📘 Overview
 This repository contains all my **daily coding tasks** completed during a **30-day Python internship**.  
@@ -83,14 +82,21 @@ By the end of this internship, I aim to:
 ---
 
 ## 💡 How to Use
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/30DaysOfPython.git
-2. Navigate to any day’s folder
-      cd Day_01
-3. Run the script
-      python task.py
 
+### 1. Clone this repository
+```bash
+git clone https://github.com/<your-username>/30DaysOfPython.git
+```
+
+### 2. Navigate to any day’s folder
+```bash
+cd Day_01
+```
+
+### 3. Run the script
+```bash
+python task.py
+```
 ---
 
 ## 🤝 Contributions
