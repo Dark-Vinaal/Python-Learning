@@ -1,12 +1,10 @@
 # 🐍 30 Days of Python Internship — Daily Tasks Repository 
 
-
 <div align="center">
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 
 </div>
-
 ---
 
 ## 📘 Overview
