@@ -1,4 +1,4 @@
-# 🐍 30 Days of Python Internship — Daily Tasks Repository
+# 🐍 30 Days of Python Internship — Daily Tasks Repository ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
 ## 📘 Overview
@@ -117,7 +117,8 @@ Special thanks to Besant Technologies and my mentor Gowthami Shyam for their gui
 
 ## 👨‍💻 Author
 
-Vinaal R
+### Vinaal R
 
 Passionate Learner | Aspiring Developer | Python Enthusiast
 
+Contact me through - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinaal) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
