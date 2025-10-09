@@ -26,17 +26,17 @@ This public repository serves both as my personal learning tracker and as a **fr
 
 ## 🗂️ Repository Structure
 
-📂 `30DaysOfPython/`
-├── 📁 `Day_01/`
-│   ├── 📄 `task.py`
-│   └── 📝 `notes.md`
-├── 📁 `Day_02/`
-│   ├── 📄 `task.py`
-│   └── 📝 `notes.md`
-├── ...
-└── 📁 `Day_30/`
-    ├── 📄 `final_project.py`
-    └── 📝 `summary.md`
+    📂 `30DaysOfPython/`
+    ├── 📁 `Day_01/`
+    │   ├── 📄 `task.py`
+    │   └── 📝 `notes.md`
+    ├── 📁 `Day_02/`
+    │   ├── 📄 `task.py`
+    │   └── 📝 `notes.md`
+    ├── ...
+    └── 📁 `Day_30/`
+        ├── 📄 `final_project.py`
+        └── 📝 `summary.md`
 
 ---
 
@@ -120,7 +120,9 @@ This is a public repo — feel free to:
 
 ## 🙏 Acknowledgment
 
-Special thanks to Besant Technologies and my mentor Gowthami Shyam for their guidance and support throughout this internship.
+Special thanks to Besant Technologies and my mentor Gowthami Shyam for their guidance and support throughout this internship. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/vinaal](https://www.linkedin.com/company/besant-technologies/posts/?feedView=all)) 
 
 ---
 
@@ -130,4 +132,8 @@ Special thanks to Besant Technologies and my mentor Gowthami Shyam for their gui
 
 Passionate Learner | Aspiring Developer | Python Enthusiast
 
-Contact me through - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinaal) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
+### Contact me through 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinaal) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
+
+---
