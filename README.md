@@ -1,4 +1,4 @@
-# 🐍 30 Days of Python Internship — Daily Tasks Repository ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+# 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 30 Days of Python Internship — Daily Tasks Repository 
 
 
 ## 📘 Overview
@@ -85,7 +85,7 @@ By the end of this internship, I aim to:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/30DaysOfPython.git
+git clone https://github.com/<your-username>/Python-Learning.git
 ```
 
 ### 2. Navigate to any day’s folder
@@ -97,15 +97,16 @@ cd Day_01
 ```bash
 python task.py
 ```
+
 ---
 
 ## 🤝 Contributions
 
- This is a public repo — feel free to:
+This is a public repo — feel free to:
 
- • Explore the tasks and code samples
- • Suggest improvements via Pull Requests
- • Share feedback or explanations
+- Explore the tasks and code samples
+- Suggest improvements via Pull Requests
+- Share feedback or explanations
 
 ---
 
