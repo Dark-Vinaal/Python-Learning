@@ -26,18 +26,19 @@ This public repository serves both as my personal learning tracker and as a **fr
 
 ## 🗂️ Repository Structure
 
-📂 30DaysOfPython/
-├── 📁 Day_01/
-│ ├── task.py
-│ └── notes.md
-├── 📁 Day_02/
-│ ├── task.py
-│ └── notes.md
+📂 `30DaysOfPython/`
+├── 📁 `Day_01/`
+│   ├── 📄 `task.py`
+│   └── 📝 `notes.md`
+├── 📁 `Day_02/`
+│   ├── 📄 `task.py`
+│   └── 📝 `notes.md`
 ├── ...
-└── 📁 Day_30/
-├── final_project.py
-└── summary.md
+└── 📁 `Day_30/`
+    ├── 📄 `final_project.py`
+    └── 📝 `summary.md`
 
+---
 
 Each folder includes:  
 - **task.py** → Daily assignment code  
