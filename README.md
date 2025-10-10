@@ -120,7 +120,7 @@ This is a public repo — feel free to:
 
 ## 🙏 Acknowledgment
 
-Special thanks to Besant Technologies and my mentor Gowthami Shyam for their guidance and support throughout this internship. 
+Special thanks to Besant Technologies, Mohamed Ismail sir (General Manager) Pavimithra mam (Hr), Rajalakshmi mam (Hr) and Gowthami Shyam mam (Mentor) for their guidance and support throughout this internship. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/vinaal](https://www.linkedin.com/company/besant-technologies/posts/?feedView=all)) 
 
