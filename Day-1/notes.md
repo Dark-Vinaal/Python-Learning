@@ -93,7 +93,6 @@ Explanation:
 
 ### C++
 
-```markdown
 ```cpp
 #include <iostream>
 using namespace std;
@@ -116,7 +115,6 @@ Explanation:
 
 ### Java
 
-```markdown
 ```java
 public class Main {
     public static void main(String[] args) {
