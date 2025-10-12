@@ -29,7 +29,7 @@ After installing, open your terminal or command prompt and type:
 ```bash
 python --version
 ```
-and you should see Python 3.14.0 (as of October 2025 when this note was written; you might see a newer version available at the time you install).
+> and you should see Python 3.14.0 (as of October 2025 when this note was written; But you might see a newer version available at the time you install).
 
 ---
 
