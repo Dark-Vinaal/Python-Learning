@@ -14,6 +14,8 @@ Each day’s progress is organized folder-wise (`Day 1 → Day 30`) with code fi
 
 This public repository serves both as my personal learning tracker and as a **free resource** for anyone who wants to **learn Python** through real-world exercises and structured examples.
 
+> Note : I'm familiar with the term coding because of my previous knowledge in Java and C++, so I have written this repo project in my way of understanding.
+
 ---
 
 ## 🎯 Objectives
