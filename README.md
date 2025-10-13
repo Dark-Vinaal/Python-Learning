@@ -106,6 +106,10 @@ cd Day_01
 python task.py
 ```
 
+```bash
+python notes.md
+``` 
+
 ---
 
 ## 🤝 Contributions
