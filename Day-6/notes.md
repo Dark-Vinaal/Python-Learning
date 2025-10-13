@@ -30,6 +30,7 @@ invalid :
 ```
 
 > ✅ Valid identifiers: name, _userID, data123
+
 > ❌ Invalid identifiers: 123name, user id, for
 
 ---
@@ -62,7 +63,7 @@ Comments are non-executable lines that describe your code for better readability
 
 Use the # symbol before your comment:
 
-# This is a single-line comment
+### This is a single-line comment
 
 ```python
 print("Hello, World!")  # You can also add it inline
