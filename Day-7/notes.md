@@ -20,9 +20,9 @@ Today (Day 7), I learned about **Python data types**, including basic types like
 ```python
 name = "Vinaal"
 age = 20
-height = 5.9
+height = 6.0
 is_student = True
-project = None
+project = 5
 
 print(type(name))       # <class 'str'>
 print(type(age))        # <class 'int'>
