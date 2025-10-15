@@ -14,6 +14,8 @@ Each day’s progress is organized folder-wise (`Day 1 → Day 30`) with code fi
 
 This public repository serves both as my personal learning tracker and as a **free resource** for anyone who wants to **learn Python** through real-world exercises and structured examples.
 
+> Note : I'm familiar with the term coding because of my previous knowledge in Java and C++, so I have written this repo project in my way of understanding.
+
 ---
 
 ## 🎯 Objectives
@@ -126,7 +128,7 @@ This is a public repo — feel free to:
 
 Special thanks to Besant Technologies, Mohamed Ismail sir (General Manager) Pavimithra mam (Hr), Rajalakshmi mam (Hr) and Gowthami Shyam mam (Mentor) for their guidance and support throughout this internship. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/vinaal](https://www.linkedin.com/company/besant-technologies/posts/?feedView=all)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/besant-technologies/) 
 
 ---
 
