@@ -98,6 +98,8 @@ print(numbers)  # {1, 2, 3, 4}
 | **Tuple** | ❌ No  | ✅ Yes | ✅ Yes | `(1, 2, 3)` |
 | **Set**   | ✅ Yes | ❌ No  | ❌ No  | `{1, 2, 3}` |
 
+---
+
 > 🧩 In summary, Python offers various data types for handling numbers, text, logic, and collections. Choosing the right type makes your program more efficient and easier to manage.
 
 ---
