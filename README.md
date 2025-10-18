@@ -16,6 +16,8 @@ This public repository serves both as my personal learning tracker and as a **fr
 
 > Note : I'm familiar with the term coding because of my previous knowledge in Java and C++, so I have written this repo project in my way of understanding.
 
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+
 ---
 
 ## 🎯 Objectives
