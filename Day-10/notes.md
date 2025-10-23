@@ -14,25 +14,28 @@
 
 Arithmetic operators are used to perform mathematical (arithmetic) operations.
 
-| Operator | Description | Example | Output |
-|-----------|--------------|----------|---------|
-| `+` | Addition | `10 + 5` | `15` |
-| `-` | Subtraction | `10 - 5` | `5` |
-| `*` | Multiplication | `10 * 5` | `50` |
-| `/` | Division | `10 / 5` | `2.0` |
-| `%` | Modulus (Remainder) | `10 % 3` | `1` |
-| `**` | Exponent (Power) | `2 ** 3` | `8` |
+| Operator | Description | Example | Output | Comment |
+|-----------|--------------|----------|---------|---------|
+| `+` | Addition | `10 + 5` | `15` | returns the Additon value |
+| `-` | Subtraction | `10 - 5` | `5` | returns the Subtraction value |
+| `*` | Multiplication | `10 * 5` | `50` | returns the Multiplication value |
+| `/` | Division | `10 / 5` | `2.0` |---------| returns the Division quotient value in Float form |
+| `//` | Floor Division | `10 / 5` | `2` | returns the Division quotient value in Integer form |
+| `%` | Modulus (Remainder) | `10 % 3` | `1` | returns the Division remainder |
+| `**` | Exponent (Power) | `2 ** 3` | `8` | returns the power value |
 
 ### 💻 Example:
 ```python
 a = 10
-b = 3
-print(a + b)   # 13
-print(a - b)   # 7
-print(a * b)   # 30
-print(a / b)   # 3.333...
-print(a % b)   # 1
-print(a ** b)  # 1000
+b = 2
+
+print(a + b)   # 12
+print(a - b)   # 8
+print(a * b)   # 20
+print(a / b)   # 5.00...
+print(a // b)  # 5
+print(a % b)   # 0
+print(a ** b)  # 100
 ```
 
 ---
@@ -54,6 +57,7 @@ Relational Operators are used to compare two values — result is always True or
 ```python
 x = 10
 y = 20
+
 print(x == y)
 print(x != y)
 print(x > y)
@@ -75,16 +79,33 @@ Assignment Operators are sed to assign or update values in variables.
 | `-=`     | `x -= 2` | `x = x - 2`          |
 | `*=`     | `x *= 4` | `x = x * 4`          |
 | `/=`     | `x /= 2` | `x = x / 2`          |
+| `//=`    | `x //= 2`| `x = x // 2`         |
 | `%=`     | `x %= 3` | `x = x % 3`          |
 
 ### 💻 Example:
 ```python
 x = 10
+
 x += 5
 print(x)   # 15
 
+x -= 5
+print(x)   # 5
+
 x *= 2
 print(x)   # 30
+
+x /= 2
+print(x)   # 5.00
+
+x //= 2
+print(x)   # 5
+
+x %= 2
+print(x)   # 0
+
+x **= 2
+print(x)   # 100
 ```
 
 ---
@@ -103,6 +124,7 @@ Logical Operators are used to combine conditional statements.
 ```python
 a = 5
 b = 10
+
 print(a > 2 and b > 5)
 print(a > 10 or b > 5)
 print(not(a > 2))
