@@ -252,7 +252,6 @@ print(result)  # {'a': 1, 'b': 2, 'c': 3}
 
 ---
 
-
 📘 *Next step (Day 9):*  
 
-I’ll explore **-**.
+I’ll explore **input mtd & f-string**.
