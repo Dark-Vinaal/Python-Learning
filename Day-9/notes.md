@@ -4,6 +4,7 @@
 - `input()` method  
 - Printing user input  
 - Using variables inside strings with **f-strings**
+- `id()` function
 
 ---
 
@@ -64,6 +65,36 @@ print(f"Hello {name}, you are {age} years old!")
 
 ---
 
+## id() Function
+
+The id() function returns the unique memory address (identity) of an object or variable.
+
+### 💻 Example:
+```python
+x = 10
+y = 10
+z = 20
+
+print(id(x))
+print(id(y))
+print(id(z))
+```
+
+### 🧠 Output:
+```python
+140704630282608
+140704630282608
+140704630282768
+```
+
+### ✅ Explanation:
+
+- x and y have the same value (10) → Python points them to the same memory location.
+- z has a different value (20) → so it has a different memory address.
+- The id() function helps understand how Python stores and references objects internally.
+
+---
+
 ## 🧠 Summary
 
 | Concept          | Description                          | Example                         |
@@ -71,6 +102,7 @@ print(f"Hello {name}, you are {age} years old!")
 | `input()`        | Takes user input (string by default) | `input("Enter name: ")`         |
 | `print(input())` | Prints user input directly           | `print(input("Enter value: "))` |
 | `f-strings`      | Used to embed variables in strings   | `f"Hello {name}"`               |
+| `id()`         | Returns unique ID (memory address) of variable | `print(id(x))`          |
 
 ---
 
