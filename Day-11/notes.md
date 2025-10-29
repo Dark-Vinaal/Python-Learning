@@ -121,4 +121,4 @@ Here, marks >= 70 is True, so it prints “Grade: B”.
 
 📘 *Next step (Day 12):*  
 
-I’ll explore **Control Structure - Iterative Statements**.
+I’ll explore **Control Structure - Iterative Statements (while loop)**.
