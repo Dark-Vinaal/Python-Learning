@@ -108,22 +108,6 @@ print(fruits[2])   # cherry
 
 Negative indices start from the end of the list.
 
-| Element | a[0]  | a[1]   | a[2]   | a[3]  |
-| ------- | ----- | ------ | ------ | ----- |
-| Value   | apple | banana | cherry | mango |
-
-```python
-fruits = ["apple", "banana", "cherry", "mango"]
-print(fruits[0])   # apple
-print(fruits[2])   # cherry
-```
-
-> ✅ Index starts from 0.
-
-### 🔸 Accessing Elements by Negative Index
-
-Negative indices start from the end of the list.
-
 | Element | a[-4] | a[-3]  | a[-2]  | a[-1] |
 | ------- | ----- | ------ | ------ | ----- |
 | Value   | apple | banana | cherry | mango |
