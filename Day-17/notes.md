@@ -181,7 +181,7 @@ print(new_t)
 
 ---
 
-## 🧩 10. Introduction
+## 🧩 10. String
 
 - A **string** is a sequence of **characters** enclosed within single quotes (`' '`), double quotes (`" "`) or triple quotes (`''' '''` or `""" """`).
 - Strings are **immutable**, meaning their content cannot be changed after creation.
