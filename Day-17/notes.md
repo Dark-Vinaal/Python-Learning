@@ -14,7 +14,7 @@
 - String Creation (Single-Line & Multi-Line)
   - Length & Count
   - Concatenation and Repetition
-  - Mutability 
+  - Immutability 
 
 ---
 
@@ -287,7 +287,7 @@ Hi Hi Hi
 
 ---
 
-## 🔹 6. Mutability and Immutability
+## 🔹 6. Immutability
 
 - Strings are immutable, meaning you cannot change their content directly.
 
