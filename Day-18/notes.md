@@ -107,7 +107,7 @@ print(text.split())
 ['Python', 'is', 'fun']
 ```
 
-> You can also specify a separator:
+- You can also specify a separator:
 
 ```python
 data = "apple,banana,cherry"
