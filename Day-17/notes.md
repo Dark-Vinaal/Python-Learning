@@ -14,7 +14,7 @@
 - String Creation (Single-Line & Multi-Line)
   - Length & Count
   - Concatenation and Repetition
-  - Mutability 
+  - Immutability 
 
 ---
 
@@ -181,7 +181,7 @@ print(new_t)
 
 ---
 
-## 🧩 10. Introduction
+## 🧩 10. String
 
 - A **string** is a sequence of **characters** enclosed within single quotes (`' '`), double quotes (`" "`) or triple quotes (`''' '''` or `""" """`).
 - Strings are **immutable**, meaning their content cannot be changed after creation.
@@ -287,7 +287,7 @@ Hi Hi Hi
 
 ---
 
-## 🔹 6. Mutability and Immutability
+## 🔹 6. Immutability
 
 - Strings are immutable, meaning you cannot change their content directly.
 
