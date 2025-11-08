@@ -343,4 +343,4 @@ Jython
 
 ## 📘 *Next step (Day 18):*  
 
-I’ll explore **Set**.
+I’ll explore **String**.
