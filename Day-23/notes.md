@@ -6,7 +6,7 @@
 - Modules
  - OS Module
 - `read()`, `write()`, `open()`
-- `r`, `w`, `a`
+- `"r"`, `"w"`, `"a"`
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## OS Module Basics
 
-### os.getcwd() — Get Current Working Directory
+### `os.getcwd()` — Get Current Working Directory
 
 - Returns the folder in which the Python file is currently running.
 ```python
@@ -29,7 +29,7 @@ print(os.getcwd())
 
 ---
 
-### os.listdir() — List All Files/Folders
+### `os.listdir()` — List All Files/Folders
 
 - Displays all files and directories inside the current folder.
 ```python
@@ -72,7 +72,7 @@ print(os.getcwd())
 f = open("sample.txt", "w")
 ```
 
-## Writing to a File — write()
+## Writing to a File — `write()`
 ```python
 f = open("sample.txt", "w")
 f.write("Hello, this is written into the file.")
@@ -86,7 +86,7 @@ f.write("\nThis line was appended.")
 f.close()
 ```
 
-## Reading from a File — read()
+## Reading from a File — `read()`
 ```python
 f = open("sample.txt", "r")
 data = f.read()
@@ -94,7 +94,7 @@ print(data)
 f.close()
 ```
 
-## Reading Line by Line — readline()
+## Reading Line by Line — `readline()`
 ```python
 f = open("sample.txt", "r")
 print(f.readline())
@@ -102,7 +102,7 @@ print(f.readline())
 f.close()
 ```
 
-## Reading All Lines — readlines()
+## Reading All Lines — `readlines()`
 ```python
 f = open("sample.txt", "r")
 lines = f.readlines()
@@ -120,7 +120,7 @@ print(os.path.exists("sample.txt"))
 
 ## Delete a File
 
-### os.unlink()
+### `os.unlink()`
 
 - os.unlink() is used to delete a file from the system.
 - It works exactly like os.remove() — both perform the same action.
@@ -134,7 +134,7 @@ os.unlink("sample.txt")
 > ✔ Deletes the file named sample.txt
 > ✔ Raises an error if the file does not exist
 
-### os.remove()
+### `os.remove()`
 
 ```python
 import os
