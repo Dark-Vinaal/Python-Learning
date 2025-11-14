@@ -227,6 +227,6 @@ type()  # Returns the type of the object
 
 ---
 
-## 📘 *Next step (Day 20):*  
+## 📘 *Next step (Day 21):*  
 
 I’ll explore **Function**.

@@ -1,5 +1,19 @@
 # Day 21 – Functions and Arguments in Python
 
+## 🎯 Topics Covered
+
+- Functions
+  - call a function
+- Parameters
+- Arguments
+  - Positional Arguments
+  - Default Arguments
+  - Keyword Arguments
+  - Arbitrary Arguments
+- return statement
+
+---
+
 ## 🔹 What is a Function?
 
 - A function is a block of reusable code that performs a specific task.
@@ -30,6 +44,51 @@ def greet():
 - Makes code modular and organized.
 - Easy to debug and maintain.
 - Avoids repetition of logic.
+
+---
+
+##  Parameters
+
+- Parameters are variables written inside the function definition.
+- They act as placeholders for the values the function will receive.
+- Parameters exist only when you define a function.
+
+### Example:
+```python
+def add(a, b):   # a and b are PARAMETERS
+    return a + b
+```
+
+#### Here:
+
+> a → parameter    
+> b → parameter
+
+---
+
+## Arguments
+
+- Arguments are the actual values you pass into a function when calling it.
+- They replace the parameters during the function call.
+
+### Example:
+```python
+add(5, 10)   # 5 and 10 are ARGUMENTS
+```
+
+#### Here:
+
+> 5 → argument    
+> 10 → argument
+
+---
+
+### Simple Difference Table
+
+| Term          | Meaning                        | Appears In          | Example         |
+| ------------- | ------------------------------ | ------------------- | --------------- |
+| **Parameter** | Placeholder variable           | Function definition | `def add(a, b)` |
+| **Argument**  | Actual value given to function | Function call       | `add(5, 10)`    |
 
 ---
 
@@ -136,6 +195,6 @@ Result: 15
 
 ---
 
-## 📘 *Next step (Day 20):*  
+## 📘 *Next step (Day 22):*  
 
 I’ll explore **Advanced Functions**.
