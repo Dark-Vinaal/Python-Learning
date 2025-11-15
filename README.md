@@ -4,6 +4,8 @@
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+  
 </div>
 
 ---
