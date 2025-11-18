@@ -169,4 +169,4 @@ os.rmdir("new_folder")
 
 ## 📘 *Next step (Day 24):*  
 
-I’ll explore **Modules**.
+I’ll explore **Math Module**.
