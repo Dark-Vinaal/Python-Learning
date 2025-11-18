@@ -108,13 +108,13 @@ print(math.exp(2))   # Output: 7.389...
 ### `math.pi` — PI (3.14159…)
 ```python
 import math
-print(math.pi)
+print(math.pi)    # Output : 3.141592653589793
 ```
 
 ### `math.tau` — Tau (2π)
 ```python
 import math
-print(math.tau)
+print(math.tau)    # Output 6.283185307179586
 ```
 
 ---
@@ -124,8 +124,15 @@ print(math.tau)
 - `round()` is a built-in function, not inside math module.
 
 #### Simple round:
+
+- Decimal value greater than 5
 ```python
 print(round(4.567))    # Output: 5
+```
+
+- Decimal value lower than 5
+```python
+print(round(4.234))    # Output: 4
 ```
 
 #### Round to specific digits:
