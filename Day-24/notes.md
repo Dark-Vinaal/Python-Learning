@@ -108,13 +108,13 @@ print(math.exp(2))   # Output: 7.389...
 ### `math.pi` — PI (3.14159…)
 ```python
 import math
-print(math.pi)    # Output : 3.141592653589793
+print(math.pi)    # Output: 3.141592653589793
 ```
 
 ### `math.tau` — Tau (2π)
 ```python
 import math
-print(math.tau)    # Output 6.283185307179586
+print(math.tau)    # Output: 6.283185307179586
 ```
 
 ---
