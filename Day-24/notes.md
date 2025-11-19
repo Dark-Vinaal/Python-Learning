@@ -144,4 +144,4 @@ print(round(4.567, 2))   # Output: 4.57
 
 ## 📘 *Next step (Day 25):*  
 
-I’ll explore **Modules**.
+I’ll explore **Random Module**.
