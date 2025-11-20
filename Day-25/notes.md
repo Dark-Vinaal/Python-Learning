@@ -127,4 +127,4 @@ print(person.get("address", "Not Available"))
 
 ## 📘 *Next step (Day 26):*  
 
-I’ll explore **OOPS**.
+I’ll explore **NumPy & Pandas Libraries**.
