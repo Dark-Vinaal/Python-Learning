@@ -13,7 +13,7 @@
 Definition: Occurs when the code violates Python grammar rules.
 - Python cannot execute the program until it's fixed.
 
-# Missing parenthesis → Syntax Error
+### Missing parenthesis → Syntax Error
 ```python
 print("Hello"
 ```
@@ -24,7 +24,7 @@ print("Hello"
 
 Definition: Code runs successfully but produces wrong output due to wrong logic.
 
-# Wrong logic: average formula incorrect
+### Wrong logic: average formula incorrect
 ```python
 a, b = 10, 20
 avg = a + b / 2   # wrong logic
