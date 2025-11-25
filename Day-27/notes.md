@@ -95,6 +95,6 @@ finally:
 
 ---
 
-## 📘 *Next step (Day 27):*  
+## 📘 *Next step (Day 28):*  
 
-I’ll explore **OOPS**.
+I’ll explore **Classes & Objects, Inheritance**.
