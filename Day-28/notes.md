@@ -1,12 +1,14 @@
 ## Day-28 — Object-Oriented Programming (OOP)
 
-OOPS Stands for Object Oriented Programming
-Types of oops are : 
+- OOPS Stands for Object Oriented Programming
+
+## 🎯 Topics Covered
 - Class
 - Object
 - Inheritance
-  - Single inheritance
-  - Multilevel inheritance
+  - Single Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
 - Polymorphism
   - Method Overloading
   - Operator Overloading
@@ -94,6 +96,47 @@ obj = C()
 obj.showA()
 obj.showB()
 obj.showC()
+```
+
+---
+
+## Hierarchical Inheritance
+
+- In Hierarchical Inheritance, one parent class is inherited by multiple child classes.
+
+> 📌 One parent → Many children
+
+### Example:
+```python
+class Animal:
+    def sound(self):
+        print("Animals have different sounds")
+
+class Dog(Animal):
+    def bark(self):
+        print("Dog barks: Woof!")
+
+class Cat(Animal):
+    def meow(self):
+        print("Cat meows: Meow!")
+
+class Cow(Animal):
+    def moo(self):
+        print("Cow moos: Moo!")
+
+# Creating objects for each child class
+d = Dog()
+c = Cat()
+co = Cow()
+
+d.sound()
+d.bark()
+
+c.sound()
+c.meow()
+
+co.sound()
+co.moo()
 ```
 
 ---
